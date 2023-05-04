@@ -1,0 +1,11 @@
+.nav-bar {
+    background-color: #1F1F1F;
+    border: solid;
+    border-color: white;
+    position: sticky;
+    height: 50px;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
